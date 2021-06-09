@@ -1,6 +1,6 @@
 ## CryptoJumble
 
-## サイト概要
+### サイト概要
 デジタル通貨の情報を掲載する入門向け情報提供サイト。
 デジタル通貨の開発元・企業が出しているホワイトペーパー等の情報をシェアする。
 また初心者でも興味を持てるように、どのような通貨が注目されているか各ワードの検索数を公開する。
@@ -21,13 +21,13 @@
 ### 主な利用シーン
 特定のデジタル通貨に関して公式情報をチェックし、知見を深めたい時
 
-## 設計書
+### 設計書
 <...>
 
-## チャレンジ要素一覧
+### チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1WhhK5WCb6nUPF3HqlvL0zWIVXEZtEGeZ1bBaR4Htk3E/edit?usp=sharing
 
-## 開発環境
+### 開発環境
 - OS：Mac
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
